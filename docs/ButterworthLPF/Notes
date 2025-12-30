@@ -1,0 +1,58 @@
+https://chatgpt.com/share/68ff4604-15a8-800b-9662-0712082b13e5
+
+📙 2. Proakis & Manolakis – Digital Signal Processing: Principles, Algorithms, and Applications, 4th Edition (2006)
+
+Chapter 10: IIR Filter Design Techniques
+
+Equation (10.44) and (10.45) derive:
+
+A(Ω)=10log⁡10 ⁣(1+ϵ2(ΩΩp)2n)
+A(Ω)=10log
+10
+	​
+
+(1+ϵ
+2
+(
+Ω
+p
+	​
+
+Ω
+	​
+
+)
+2n
+)
+
+For Butterworth, 
+ϵ=1
+ϵ=1 at the -3 dB point, leading to:
+
+As=10log⁡10 ⁣(1+(ΩsΩp)2n)
+A
+s
+	​
+
+=10log
+10
+	​
+
+(1+(
+Ω
+p
+	​
+
+Ω
+s
+	​
+
+	​
+
+)
+2n
+)
+
+→ identical result.
+
+

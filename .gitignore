@@ -53,3 +53,30 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# =========================
+# Project-specific ignores
+# =========================
+
+# Build directories
+build/
+build-*/
+
+# Logs
+log/
+logs/
+*.log
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
