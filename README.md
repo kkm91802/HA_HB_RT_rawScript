@@ -172,6 +172,7 @@ GitHub: kkm91802
 
 ## Rights & License
 
+© Kamal Kishore Majhi
 All rights reserved.
 
 No part of this repository may be used, modified, or redistributed without explicit permission from the author.
